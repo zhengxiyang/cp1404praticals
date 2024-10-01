@@ -1,5 +1,3 @@
-"""Program that checks the password length and prints asterisks."""
-
 MIN_PASSWORD_LENGTH = 8
 
 def main():

@@ -1,5 +1,3 @@
-"""Program to determine score result and print stars based on the score."""
-
 import random
 
 

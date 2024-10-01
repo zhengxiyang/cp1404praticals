@@ -1,5 +1,3 @@
-"""Program to get score, print result, and display stars based on score."""
-
 def main():
     """Main function to handle score menu options."""
     MENU = """(G)et a valid score

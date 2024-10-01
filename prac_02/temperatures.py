@@ -1,5 +1,3 @@
-"""Program to convert temperatures between Celsius and Fahrenheit."""
-
 def main():
     """Main function to run the temperature conversion program."""
     MENU = """C - Convert Celsius to Fahrenheit
