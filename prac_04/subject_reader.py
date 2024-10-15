@@ -1,6 +1,5 @@
 FILENAME = "subject_data.txt"
 
-
 def main():
     data = get_data()
     print_results(data)
