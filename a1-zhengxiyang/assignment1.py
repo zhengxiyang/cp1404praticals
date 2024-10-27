@@ -2,7 +2,7 @@
 CP1404 Assignment 1 - Travel Tracker
 Name:Yang zhengxi
 Date started:2024/10/26
-GitHub URL:https://github.com/cp1404-students/a1-zhengxiyang.git
+GitHub URL:https://github.com/zhengxiyang/cp1404praticals/tree/master/a1-zhengxiyang
 """
 import random
 
